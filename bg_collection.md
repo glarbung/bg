@@ -27,7 +27,7 @@ Behold! My shit...
 |Decktective: The Will without an Heir|Tontulla lainassa|-|
 |Descent: Journeys in the Dark (Second Edition)|Jossain|-|
 |Doomtown: Reloaded|Tontulla lainassa|Jotain lisäreitä|
-|Dune|Käsillä|Sekä vanha että uusi versio plus (eka) lisäri|
+|Dune|Käsillä|Sekä vanha että uusi versio plus lisärit|
 |Dune: A Game of Conquest and Diplomacy|Käsillä ja kuorissa|-|
 |Dune: Imperium|Käsillä|Lisäri löytyy|
 |Dungeons & Dragons: Wrath of Ashardalon Board Game|Sakella pysyväislainassa|-|
@@ -73,6 +73,7 @@ Behold! My shit...
 |Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases|Käsillä|Varattu perheelle|
 |SHOBU|?|-|
 |The Shores of Tripoli|Käsillä|-|
+|Skull|Käsillä/muoveissa|-|
 |Space Crusade|Jossain|-|
 |Sprawlopolis|Käsillä|-|
 |Startups|Ehkä käsillä|-|

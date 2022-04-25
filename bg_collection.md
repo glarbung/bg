@@ -82,7 +82,7 @@ Behold! My shit...
 |Tiny Epic Galaxies|Varastossa|Tarjotaan arvostavampaan kotiin|
 |TOKYO METRO|Varastossa|-|
 |The Toledo War|Käsillä|Minipeli|
-|Tortuga 1667|Hukassa|-|
+|Tortuga 1667|Tontulla lainassa|-|
 |Tzolk'in: The Mayan Calendar|Varastossa|Lisäri on|
 |Versailles 1919|Käsillä|-|
 |A War of Whispers|Käsillä|-|

@@ -12,9 +12,10 @@ Behold! My shit...
 |Android: Netrunner|Aina käsillä koska ->|Kaikki viralliset kortit|
 |Battle for Rokugan|Varasto|-|
 |Britannia|Varasto|-|
-|Bureau of Investigation: Investigations in Arkham and Elsewhere|Laurilla lainassa|Ei saa pelata ilman Hanna|
+|Bureau of Investigation: Investigations in Arkham and Elsewhere|Laurilla lainassa|Ei saa pelata ilman Hannaa|
 |Burgle Bros 2: The Casino Capers|Käsillä|-|
 |Captain Sonar|Varasto|-|
+|Ceasar!|Käsillä|-|
 |Chronicles of Crime: 1400|J&J:llä lainassa|Löytyy myös 1800 ja 2400, mutta ei saa pelata ilman Hannaa|
 |Churchill|Käsillä|-|
 |Civilization: A New Dawn|Käsillä|Plus lisäri|
@@ -29,8 +30,8 @@ Behold! My shit...
 |Doomtown: Reloaded|Tontulla lainassa|Jotain lisäreitä|
 |Dune|Käsillä|Sekä vanha että uusi versio plus lisärit|
 |Dune: A Game of Conquest and Diplomacy|Käsillä ja kuorissa|-|
-|Dune: Imperium|Käsillä|Lisäri löytyy|
-|Dungeons & Dragons: Wrath of Ashardalon Board Game|Sakella pysyväislainassa|-|
+|Dune: Imperium|Käsillä|Ix löytyy, Immortality tilattu|
+|Dungeons & Dragons: Wrath of Ashardalon Board Game|Menossa Tontulle lainaan|-|
 |Eldritch Horror|Käsillä aina|Kaikki lisärit on|
 |Empires|Varastossa|-|
 |Endeavor: Age of Sail|Varastossa|Lisäri löytyy|
@@ -46,6 +47,7 @@ Behold! My shit...
 |Imperial Struggle|Käsillä|-|
 |Innovation|Käsillä|Eka lisäri löytyy|
 |Iron Curtain|Varasto|-|
+|John Company 2ed|Käsillä|-|
 |Jorvik|?|-|
 |Judean Hammer|Käsillä|-|
 |Kemet|Käsillä/varastossa|Lisäri löytyy, samoin päivitys 1.6:een|
@@ -58,6 +60,7 @@ Behold! My shit...
 |Maria|Käsillä|Deluxe komponentit|
 |Miskatonic University: The Restricted Collection|Varastossa?|-|
 |Mottainai|Varastossa|-|
+|My Father's Work|Käsillä|-|
 |Mythos Tales|Laurilla lainassa|Duuniporukalle varattu|
 |Paladins of the West Kingdom|Käsillä|Lisäri löytyy|
 |Pax Pamir: Second Edition|Käsillä|-|
@@ -87,4 +90,4 @@ Behold! My shit...
 |Versailles 1919|Käsillä|-|
 |A War of Whispers|Käsillä|-|
 |Washington's War|Käsillä|-|
-|Watergate|Käsillä|-|
+|Watergate|Laurilla lainassa|-|

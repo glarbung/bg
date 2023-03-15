@@ -4,6 +4,7 @@ Behold! My shit...
 |-|-|-|
 |13 Days: The Cuban Missile Crisis|Varasto|-|
 |1989: Dawn of Freedom|Käsillä|-|
+|51st State|Käsillä|-|
 |6 nimmt!|Käsillä|-|
 |Age of War|öääöäöä|-|
 |Air, Land & Sea|Käsillä|-|
@@ -30,7 +31,7 @@ Behold! My shit...
 |Doomtown: Reloaded|Tontulla lainassa|Jotain lisäreitä|
 |Dune|Käsillä|Sekä vanha että uusi versio plus lisärit|
 |Dune: A Game of Conquest and Diplomacy|Käsillä ja kuorissa|-|
-|Dune: Imperium|Käsillä|Ix löytyy, Immortality tilattu|
+|Dune: Imperium|Käsillä|Ix, Immortality löytyy|
 |Dungeons & Dragons: Wrath of Ashardalon Board Game|Menossa Tontulle lainaan|-|
 |Eldritch Horror|Käsillä aina|Kaikki lisärit on|
 |Empires|Varastossa|-|
@@ -71,7 +72,7 @@ Behold! My shit...
 |Reign of Witches|Käsillä|Minipeli|
 |Robinson Crusoe: Adventures on the Cursed Island|Käsillä|Kaikki lisärit, kirjakin tulossa|
 |Samurai|Käsillä|-|
-|Sekigahara: The Unification of Japan|Käsillä|-
+|Sekigahara: The Unification of Japan|Käsillä|-|
 |Shadows over Camelot|Varastossa|+lisäri|
 |Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases|Käsillä|Varattu perheelle|
 |SHOBU|?|-|
@@ -86,8 +87,10 @@ Behold! My shit...
 |TOKYO METRO|Varastossa|-|
 |The Toledo War|Käsillä|Minipeli|
 |Tortuga 1667|Tontulla lainassa|-|
+|Twilight Struggle: Red Sea|Käsillä|-|
 |Tzolk'in: The Mayan Calendar|Varastossa|Lisäri on|
 |Versailles 1919|Käsillä|-|
+|War of the Ring: Card Game|Käsillä|-|
 |A War of Whispers|Käsillä|-|
 |Washington's War|Käsillä|-|
 |Watergate|Laurilla lainassa|-|

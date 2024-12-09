@@ -5,14 +5,15 @@ Behold! My shit...
 |13 Days: The Cuban Missile Crisis|Vuosaari, varasto|-|
 |1989: Dawn of Freedom|Hylly|-|
 |51st State|Hylly|-|
-|6 nimmt!|Vuosaari, varasto|-|
-|7th Sea: Five Sails|Hylly|Lisäri tulossa|
+|6 nimmt!|Hylly|-|
+|7th Sea: Five Sails|Hylly|Tooth & Claw -lisäri|
 |Aegean Sea|Jalkapallissa|Avaamaton, myydään|
 |Age of War|Vuosaari, varasto|-|
 |Air, Land & Sea|Hylly|-|
 |All Bridges Burning: Red Revolt and White Guard in Finland, 1917-1918|Hylly|-|
 |Ancient Civilizations of the Inner Sea|Lainassa Aballa|-|
 |Android: Netrunner|Hylly|Kaikki viralliset kortit|
+|Arcs|Hylly|L&L ja kampanjalisäri löytyy|
 |Battle for Rokugan|Hylly|-|
 |Britannia|Hylly|-|
 |Bureau of Investigation: Investigations in Arkham and Elsewhere|Laurilla lainassa|Ei saa pelata ilman Jenniä|
@@ -26,7 +27,7 @@ Behold! My shit...
 |Crusader Kings|Vuosaari, varasto|Lisäri, myydään|
 |Cthulhu Realms|Vuosaari, varasto|Annetaan pois|
 |Dead of Winter: A Crossroads Game|Vuosaari, varasto|Molemmat lisärit|
-|Deadlands Noir: The Big Easy|Vuosaari, varasto|-|
+|Deadlands Noir: The Big Easy|Vuosaari, varasto|Myydään|
 |Deception: Murder in Hong Kong|Hylly|-|
 |Decktective: The Will without an Heir|Tontulla lainassa|-|
 |Descent: Journeys in the Dark (Second Edition)|Juusolla & Sansalla ikuisuuslainassa|-|
@@ -37,7 +38,7 @@ Behold! My shit...
 |Dune: War on Arrakis|Hylly|Molemmat lisärit|
 |Dungeons & Dragons: Wrath of Ashardalon Board Game|Tontulla ja Heidillä lainassa|-|
 |Eldritch Horror|Hyllyssä aina|Kaikki lisärit on|
-|Empires|Vuosaari, varastossa|-|
+|Empires|Hylly|-|
 |Endeavor: Age of Sail|Vuosaari, varastossa|Lisäri löytyy|
 |Europe Universalis: Price of Power|Hyllyssä|Deluxe|
 |A Fake Artist Goes to New York|Hyllyssä|-|
@@ -46,7 +47,7 @@ Behold! My shit...
 |Fury of Dracula (Fourth Edition)|Hyllyssä|-|
 |Go|Laatikossa|-|
 |Gloomhaven|Kaapissa|Myydään halvalla (ilmaiseksi?) kaipaavaan kotiin|
-|Hannibal & Hamilcar|Vuosaari|Uusi (2021) edikka|
+|Hannibal & Hamilcar|Hylly|Uusi (2021) edikka|
 |Hansa Teutonica: Big Box|Hyllyssä|-|
 |Harbour|Vuosaari, varasto|-|
 |HeroQuest|Hyllyssä ja odottamassa|Vanhat lisärit löytyy|
@@ -54,7 +55,7 @@ Behold! My shit...
 |IKI|Hyllyssä|-|
 |Imperial Struggle|Jalkapallissa|-|
 |Innovation|Hyllyssä|Eka lisäri löytyy|
-|Iron Curtain|Vuosaari, varasto|-|
+|Iron Curtain|Vuosaari, varasto|Annetaan pois|
 |John Company 2ed|Hyllyssä|-|
 |Jorvik|Vuosaari, varasto|Myydään|
 |Judean Hammer|Jalkapallissa|-|
@@ -62,8 +63,8 @@ Behold! My shit...
 |The King Is Dead: Second Edition|Hyllyssä|-|
 |KLASK|Hyllyn päällä pölyttymässä|-|
 |Labyrinth: The War on Terror|Hyllyssä|Plus molemmat lisärit|
-|Liberation|Hyllyssä|-|
-|Lincoln|Hyllyssä|-|
+|Liberation|Hyllyssä|Myydään|
+|Lincoln|Hyllyssä|Myydään|
 |Lord of the Rings: The Confrontation|Hyllyssä|-|
 |Maria|Hyllyssä|Deluxe komponentit|
 |Miskatonic University: The Restricted Collection|Vuosaari, varastossa|-|
@@ -76,7 +77,8 @@ Behold! My shit...
 |Pax Renaissance: 2nd Edition|Hyllyssä|-|
 |Queendomino|Vuosaari, varastossa|-|
 |Qwinto|Vuosaari, varastossa|Annetaan pois|
-|Ra|Hyllyssä|-|
+|Ra|Vuosaari, varastossa|-|
+|Red Dust Rebellion|Hyllyssä|-|
 |Reign of Witches|Hyllyssä|Minipeli|
 |Robinson Crusoe: Adventures on the Cursed Island|Hyllyssä|Kaikki lisärit, kirjakin|
 |Samurai|Hyllyssä|-|
@@ -85,7 +87,7 @@ Behold! My shit...
 |Shadows over Camelot|Hyllyssä|+lisäri|
 |Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases|Vuosaari|Varattu perheelle|
 |SHOBU|Vuosaari, varastossa|-|
-|The Shores of Tripoli|Hyllyssä|-|
+|The Shores of Tripoli|Hyllyssä|Myydään|
 |Skull|Hyllyssä|-|
 |Space Crusade|Jossain|-|
 |Sprawlopolis|Hyllyssä|-|
@@ -101,6 +103,7 @@ Behold! My shit...
 |Tzolk'in: The Mayan Calendar|Vuosaari, varastossa|Lisäri on|
 |Versailles 1919|Hyllyssä|-|
 |War of the Ring: Card Game|Hyllyssä|-|
-|A War of Whispers|Hyllyssä|Myydään|
-|Washington's War|Hyllyssä|-|
+|A War of Whispers|Kaapissa|Myydään|
+|Washington's War|Jalkapallissa|-|
 |Watergate|Tontulla lainassa|-|
+|We're Doomed|Hylly|-|

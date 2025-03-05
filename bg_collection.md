@@ -78,11 +78,11 @@ Behold! My shit...
 |Queendomino|Vuosaari, varastossa|Pelaamaton|
 |Qwinto|Vuosaari, varastossa|Annetaan pois|
 |Ra|Vuosaari, varastossa|-|
+|Ready Set Bet|Hyllyssä|High roller edition|
 |Red Dust Rebellion|Hyllyssä|-|
 |Reign of Witches|Hyllyssä|Minipeli|
 |Robinson Crusoe: Adventures on the Cursed Island|Hyllyssä|Kaikki lisärit, kirjakin|
 |Samurai|Hyllyssä|-|
-|Scout|Hyllyssä|-|
 |Sekigahara: The Unification of Japan|Hyllyssä|-|
 |Shadows over Camelot|Hyllyssä|+lisäri|
 |Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases|S&V lainassa|Pelattu|

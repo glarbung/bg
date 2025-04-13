@@ -38,7 +38,7 @@ Behold! My shit...
 |Dune: War on Arrakis|Hylly|Molemmat lisärit|
 |Dungeons & Dragons: Wrath of Ashardalon Board Game|Tontulla ja Heidillä lainassa|-|
 |Eldritch Horror|Hyllyssä aina|Kaikki lisärit on|
-|Empires|Hylly|Pelaamaton|
+|Empires|Hylly|Pelaamaton, myydään|
 |Endeavor: Age of Sail|Vuosaari, varastossa|Lisäri löytyy|
 |Europe Universalis: Price of Power|Hyllyssä|Deluxe, pelaamaton|
 |A Fake Artist Goes to New York|Hyllyssä|-|

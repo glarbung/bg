@@ -6,6 +6,7 @@ Behold! My shit...
 |1989: Dawn of Freedom|Hylly|-|
 |51st State|Hylly|-|
 |6 nimmt!|Hylly|-|
+|7flip|Hylly|-|
 |7th Sea: Five Sails|Hylly|Tooth & Claw -lisäri|
 |Aegean Sea|Jalkapallissa|Avaamaton, myydään|
 |Age of War|Hyllyssä|Pelaamaton|
@@ -19,6 +20,7 @@ Behold! My shit...
 |Bureau of Investigation: Investigations in Arkham and Elsewhere|Laurilla lainassa|Ei saa pelata ilman Jenniä|
 |Burgle Bros 2: The Casino Capers|Hylly|-|
 |Captain Sonar|Hylly|-|
+|Cat in the Box|Hylly|-|
 |Ceasar!|Hylly|-|
 |Chronicles of Crime: 1400|J&J:llä lainassa|Löytyy myös 1800 ja 2400, mutta ei saa pelata ilman Jenniä|
 |Churchill|Hylly|-|
@@ -28,7 +30,7 @@ Behold! My shit...
 |Cthulhu Realms|Puotila, kellari|Annetaan pois|
 |Dead of Winter: A Crossroads Game|Vuosaari, varasto|Molemmat lisärit|
 |Deadlands Noir: The Big Easy|Hyllyssä|Pelaamaton, myydään|
-|Deception: Murder in Hong Kong|Hylly|PElaamaton|
+|Deception: Murder in Hong Kong|Hylly|Pelaamaton|
 |Decktective: The Will without an Heir|Tontulla lainassa|-|
 |Descent: Journeys in the Dark (Second Edition)|Juusolla & Sansalla ikuisuuslainassa|-|
 |Doomtown: Reloaded|Tontulla lainassa|Jotain lisäreitä|

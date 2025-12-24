@@ -27,7 +27,6 @@ Behold! My shit...
 |Cockroach Poker|Hylly|-|
 |Congress of Vienna|Hylly|-|
 |Crusader Kings|Vuosaari, varasto|Lisäri, myydään|
-|Cthulhu Realms|Puotila, kellari|Annetaan pois|
 |Dead of Winter: A Crossroads Game|Vuosaari, varasto|Molemmat lisärit|
 |Deadlands Noir: The Big Easy|Kaappi|Pelaamaton, myydään|
 |Deception: Murder in Hong Kong|Hylly|Pelaamaton|
@@ -49,7 +48,6 @@ Behold! My shit...
 |Frosthaven|Hyllyssä|Laurin, Juuson ja Aban kanssa yhteinen|
 |Fury of Dracula (Fourth Edition)|Hyllyssä|-|
 |Go|Laatikossa|-|
-|Gloomhaven|Puotila, kellari|Myydään halvalla (ilmaiseksi?) kaipaavaan kotiin|
 |Hannibal & Hamilcar|Hylly|Uusi (2021) edikka|
 |Hansa Teutonica: Big Box|Hyllyssä|-|
 |Harbour|Kaappi|-|
@@ -75,11 +73,11 @@ Behold! My shit...
 |My Father's Work|Hyllyssä|-|
 |Mythos Tales|Duunipaikalla|Duuniporukalle varattu|
 |Nightmare Cathedral|Jalkapallissa|Avaamaton|
+|Old King's Crown|Hylly|-|
 |Paladins of the West Kingdom|Hyllyssä|Lisäri löytyy|
 |Pax Pamir: 2nd Edition|Hyllyssä|-|
 |Pax Renaissance: 2nd Edition|Hyllyssä|-|
 |Queendomino|Kaappi|Pelaamaton|
-|Qwinto|Kaappi|Annetaan pois|
 |Ra|Vuosaari, varastossa|-|
 |Ready Set Bet|Hyllyssä|High roller edition|
 |Red Dust Rebellion|Hyllyssä|-|
@@ -113,4 +111,5 @@ Behold! My shit...
 |Washington's War|Jalkapallissa|-|
 |Watergate|Tontulla lainassa|-|
 |We're Doomed|Hylly|-|
+
 

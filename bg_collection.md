@@ -26,8 +26,8 @@ Behold! My shit...
 |Civilization: A New Dawn|Hylly|Plus lisäri|
 |Cockroach Poker|Hylly|-|
 |Congress of Vienna|Hylly|-|
-|Crusader Kings|Vuosaari, varasto|Lisäri, myydään|
-|Dead of Winter: A Crossroads Game|Vuosaari, varasto|Molemmat lisärit|
+|Crusader Kings|Kaappi|Lisäri, myydään|
+|Dead of Winter: A Crossroads Game|Kaappi|Molemmat lisärit|
 |Deadlands Noir: The Big Easy|Kaappi|Pelaamaton, myydään|
 |Deception: Murder in Hong Kong|Hylly|Pelaamaton|
 |Decktective: The Will without an Heir|Tontulla lainassa|-|
@@ -59,7 +59,7 @@ Behold! My shit...
 |Iron Curtain|Puotila, kellari|Annetaan pois|
 |Inis|Hylly|Legendary Edition|
 |John Company 2ed|Hyllyssä|-|
-|Jorvik|Vuosaari, varasto|Myydään|
+|Jorvik|Kaappi|Myydään|
 |Judean Hammer|Jalkapallissa|Pelaamaton|
 |Kemet|Kaappi|Lisäri löytyy, samoin päivitys 1.6:een|
 |KLASK|Hyllyn päällä pölyttymässä|-|
@@ -78,7 +78,7 @@ Behold! My shit...
 |Pax Pamir: 2nd Edition|Hyllyssä|-|
 |Pax Renaissance: 2nd Edition|Hyllyssä|-|
 |Queendomino|Kaappi|Pelaamaton|
-|Ra|Vuosaari, varastossa|-|
+|Ra|Kaappi|-|
 |Ready Set Bet|Hyllyssä|High roller edition|
 |Red Dust Rebellion|Hyllyssä|-|
 |Reign of Witches|Hyllyssä|Minipeli|
@@ -111,5 +111,6 @@ Behold! My shit...
 |Washington's War|Jalkapallissa|-|
 |Watergate|Tontulla lainassa|-|
 |We're Doomed|Hylly|-|
+
 
 

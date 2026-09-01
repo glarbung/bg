@@ -27,6 +27,7 @@ Behold! My shit...
 |Cockroach Poker|Hylly|-|
 |Congress of Vienna|Hylly|-|
 |Crusader Kings|Kaappi|Lisäri, myydään|
+|Cthulhu: Dark Providence|Hylly|-|
 |Dead of Winter: A Crossroads Game|Kaappi|Molemmat lisärit|
 |Deadlands Noir: The Big Easy|Kaappi|Pelaamaton, myydään|
 |Deception: Murder in Hong Kong|Hylly|Pelaamaton|
@@ -38,10 +39,11 @@ Behold! My shit...
 |Dune: Imperium|Hylly|Ix, Immortality löytyy|
 |Dune: War on Arrakis|Hylly|Molemmat lisärit|
 |Dungeons & Dragons: Wrath of Ashardalon Board Game|Tontulla ja Heidillä lainassa|-|
+|El Grande|Hylly|-|
 |Eldritch Horror|Hyllyssä aina|Kaikki lisärit on|
 |Empires|Hylly|Pelaamaton, myydään|
 |Endeavor: Age of Sail|Kaappi|Lisäri löytyy|
-|Europe Universalis: Price of Power|Hyllyssä|Deluxe, pelaamaton|
+|Europe Universalis: Price of Power|Hyllyssä|Deluxe plus lisäri, pelaamaton|
 |Fake Artist Goes to New York|Hyllyssä|-|
 |Flip7|Hylly|-|
 |Fort Sumter: The Secession Crisis, 1860-61|Vuosaari|Myydään halvalla|
@@ -61,7 +63,7 @@ Behold! My shit...
 |John Company 2ed|Hyllyssä|-|
 |Jorvik|Kaappi|Myydään|
 |Judean Hammer|Jalkapallissa|Pelaamaton|
-|Kemet|Kaappi|Lisäri löytyy, samoin päivitys 1.6:een|
+|Kemet|Kaappi|Lisäri löytyy, samoin päivitys Blood & Sandiin|
 |KLASK|Hyllyn päällä pölyttymässä|-|
 |Labyrinth: The War on Terror|Hyllyssä|Plus molemmat lisärit|
 |Liberation|Hyllyssä|Myydään/annetaan pois|
@@ -71,12 +73,13 @@ Behold! My shit...
 |Miskatonic University: The Restricted Collection|Hyllyssä|-|
 |Mottainai|Hyllyssä|-|
 |My Father's Work|Hyllyssä|-|
-|Mythos Tales|Duunipaikalla|Duuniporukalle varattu|
+|Mythos Tales|Hyllyssä|PulseOnin porukalle varattu|
 |Nightmare Cathedral|Jalkapallissa|Avaamaton|
 |Old King's Crown|Hylly|-|
 |Paladins of the West Kingdom|Hyllyssä|Lisäri löytyy|
 |Pax Pamir: 2nd Edition|Hyllyssä|-|
 |Pax Renaissance: 2nd Edition|Hyllyssä|-|
+|Queen's Dilemma|Hyllyssä|-|
 |Queendomino|Kaappi|Pelaamaton|
 |Ra|Kaappi|-|
 |Ready Set Bet|Hyllyssä|High roller edition|
